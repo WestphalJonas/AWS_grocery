@@ -3,3 +3,8 @@ frontend/frontend-build.zip
 frontend/temp_extract/
 frontend/src/config.js~
 venv/
+.env
+__pycache__/
+uv.lock
+package-lock.json
+.DS_Store
