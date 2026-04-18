@@ -1,0 +1,11 @@
+.git
+**/__pycache__
+**/*.pyc
+**/*.pyo
+**/.venv
+**/.env
+backend/.env
+frontend/node_modules
+frontend/build
+.DS_Store
+*.md
